@@ -8,7 +8,7 @@
 >   - [Arduino read data](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#arduino-read-data)
 >   - [ERC20 buyers address collector](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#erc20-buyers-address-collector)
 >   - [EVM sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#evm-sniper-bot)
->   - >   - [EVM sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#starknet-sniper-bot)
+>   - [Starknet sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#starknet-sniper-bot)
 >   - [MEV sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#mev-sniper-bot)
 
 <br>
