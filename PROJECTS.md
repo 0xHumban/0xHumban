@@ -8,6 +8,7 @@
 >   - [Arduino read data](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#arduino-read-data)
 >   - [ERC20 buyers address collector](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#erc20-buyers-address-collector)
 >   - [EVM sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#evm-sniper-bot)
+>   - >   - [EVM sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#starknet-sniper-bot)
 >   - [MEV sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#mev-sniper-bot)
 
 <br>
@@ -68,6 +69,15 @@ Goal: In automatic, get common buyers of different tokens, to track them.
 - Repo(s): **Private**
 
 Automatic sniping bot. Works on : ``Arbitrum / Optimism / Base / BSC``. Presale snipe, new tokens snipe, multi-wallets, auto-sell.
+
+<br>
+
+
+### Starknet sniper bot
+- Build time: 4 hours
+- Repo(s): **Private**
+
+Automatic sniping bot. Works on : ``Starknet``. New token snipe, spam buy, auto sell, monitoring price in live
 
 <br>
 
