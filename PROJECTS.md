@@ -74,10 +74,10 @@ Automatic sniping bot. Works on : ``Arbitrum / Optimism / Base / BSC``. Presale 
 
 
 ### Starknet sniper bot
-- Build time: 4 hours
+- Build time: 8 hours
 - Repo(s): **Private**
 
-Automatic sniping bot. Works on : ``Starknet``. New token snipe, spam buy, auto sell, monitoring price in live
+Automatic sniping bot. Works on : ``Starknet``. New token snipe, spam buy, auto sell, monitoring price in live, multi send wallets
 
 <br>
 
