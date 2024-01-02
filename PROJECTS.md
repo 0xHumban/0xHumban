@@ -1,8 +1,7 @@
 # Projects:
 > List of projects I have built.
-> - Solidity
->   - [Basic stacking rewards](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-stacking-rewards)
->   - [Basic AVAX wallet](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-avax-wallet)
+> - Rust
+>   - [Rpc massive requests](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rpc-massive-requests-sender)
 > - Python
 >   - [ERC20 snipe with fast transfer](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#erc20-snipe-with-fast-transfer)
 >   - [Arduino read data](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#arduino-read-data)
@@ -10,29 +9,21 @@
 >   - [EVM sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#evm-sniper-bot)
 >   - [Starknet sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#starknet-sniper-bot)
 >   - [MEV sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#mev-sniper-bot)
+> - Solidity
+>   - [Basic stacking rewards](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-stacking-rewards)
+>   - [Basic AVAX wallet](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-avax-wallet)
+
 
 <br>
-
-___
-## Solidity
-### Basic stacking rewards
-- Build time: 4 hours
-- Contract(s): 1
-- Tested: True
-- Repo(s): **Public**, https://github.com/0xHumban/Staking-Rewards
-
-A contract created, to simulate stake function on a DAPP, depending on the total supply and total token amount staked.
-
-<br>
-
-### Basic AVAX wallet
+---
+## Rust
+### Rpc massive requests sender
 - Build time: 2 hours
-- Contract(s): 1
-- Tested: False
-- Repo(s): **Public**, https://github.com/0xHumban/AVAX-Wallet-Solidity
+- Repo(s): **Public**, https://github.com/0xHumban/rpc-ddos
 
-A contract created, to simulate a basic wallet / bank with smart contracts. Deployed on Fuji testnet.
+A script using rust features to send a lot of requests to an HTTP RPC. Features used: ``async, Arc, Mutex, mpsc, thread``
 
+<br>
 
 ---
 ## Python
@@ -88,3 +79,25 @@ Automatic sniping bot. Works on : ``Starknet``. New token snipe, spam buy, auto 
 
 Basic MEV sniper bot, used to snipe new ERC20 tokens on ``Ethereum``. Multi-wallets, first transaction mode, auto-sell, full configuration.
 Beat public sniping bot like BananaGun and Maestro.
+
+___
+
+## Solidity
+### Basic stacking rewards
+- Build time: 4 hours
+- Contract(s): 1
+- Tested: True
+- Repo(s): **Public**, https://github.com/0xHumban/Staking-Rewards
+
+A contract created, to simulate stake function on a DAPP, depending on the total supply and total token amount staked.
+
+<br>
+
+### Basic AVAX wallet
+- Build time: 2 hours
+- Contract(s): 1
+- Tested: False
+- Repo(s): **Public**, https://github.com/0xHumban/AVAX-Wallet-Solidity
+
+A contract created, to simulate a basic wallet / bank with smart contracts. Deployed on Fuji testnet.
+
