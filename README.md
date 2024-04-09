@@ -1,5 +1,5 @@
 ## Profile:
-random dev and searcher
+random software engineer and searcher
 
 ## Projects:
 > List of projects I have built.
