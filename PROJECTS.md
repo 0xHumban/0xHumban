@@ -2,6 +2,7 @@
 > List of projects I have built.
 > - Rust
 >   - [Rpc massive requests](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rpc-massive-requests-sender)
+>   - [Multichain sniper bot with functionalities](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multichain-sniper-bot-with-functionalities)
 > - Python
 >   - [ERC20 snipe with fast transfer](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#erc20-snipe-with-fast-transfer)
 >   - [Arduino read data](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#arduino-read-data)
@@ -9,10 +10,14 @@
 >   - [EVM sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#evm-sniper-bot)
 >   - [Starknet sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#starknet-sniper-bot)
 >   - [MEV sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#mev-sniper-bot)
+>   - [Gist generator](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#gist-creator)
+>   - [Spam multi buy implementation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-multi-buy-implementation)
 > - Solidity
 >   - [Basic stacking rewards](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-stacking-rewards)
 >   - [Basic AVAX wallet](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-avax-wallet)
-
+>   - [Multi buy contract](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multi-buy-contract)
+> - Java
+>   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
 
 <br>
 ---
@@ -23,6 +28,32 @@
 
 A script using rust features to send a lot of requests to an HTTP RPC. Features used: ``async, Arc, Mutex, mpsc, thread``
 
+<br>
+
+
+### Multichain sniper bot with functionalities
+- Build time: 3 months
+- Repo(s): **Private**
+- Resource: [DEXs implemented](https://github.com/0xHumban/0xHumban/blob/main/resources/rust-sniper-bot-impl.md)
+
+Complex rust implementation of ``uniswap v2`` contract to perform onchain operations with ``ERC-20`` tokens.
+
+A menu-based interface used by the user where he can perform these actions: 
+- Check the potential token taxes
+- Buy and sell a token for a wallet
+- Snipe a token launch
+- Check the price for a token on different ``DEXs``
+- Simulate onchain transactions with a fork on the latest block
+- Price tracking to check the price evolution
+- Wallets tracking, to monitor performance and holdings.
+- Auto-sell for a custom profit margin
+
+The user can build his own custom ``startegy``, subscription method (Subscribe to new blocks, spam the latest block..),
+to send custom transactions at the right time.
+
+Technologies used: ``ether-rs``, ``foundry-rs`` (mainly for Anvil)
+
+<br>
 <br>
 
 ---
@@ -72,13 +103,33 @@ Automatic sniping bot. Works on : ``Starknet``. New token snipe, spam buy, auto 
 
 <br>
 
-
 ### MEV sniper bot
-- Build time: 07/2023 - Current
+- Build time: 07/2023 - 10/2023 (Discontinued)
 - Repo(s): **Private**
 
 Basic MEV sniper bot, used to snipe new ERC20 tokens on ``Ethereum``. Multi-wallets, first transaction mode, auto-sell, full configuration.
 Beat public sniping bot like BananaGun and Maestro.
+
+<br>
+
+### Gist creator
+- Build time: 4 hours
+- Gist(s): **Public**, https://gist.github.com/0xHumban/bcd46eaf8ad1f0cb69d17081d814a430
+
+Basic script to create a gist for a given file, with a simple command line 
+Used to share code with collaborators easily
+
+<br>
+
+
+### Spam multi buy implementation
+- Build time: 4 hours
+- Repo(s): **Private**
+
+An implementation for [Multi buy contract](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multi-buy-contract), with basic interface to configure the contract
+and start spamming buy transactions.
+
+<br>
 
 ___
 
@@ -101,3 +152,36 @@ A contract created, to simulate stake function on a DAPP, depending on the total
 
 A contract created, to simulate a basic wallet / bank with smart contracts. Deployed on Fuji testnet.
 
+<br>
+
+### Multi buy contract
+- Build time: 5 days
+- Contract(s): 2
+- Tested: True
+- Repo(s): **Private**
+
+The goal was to create a contract that can perform multi buy in one transaction.
+It can be used to spam transactions to buy tokens.
+
+1 contract used as "basic" to instant reverted if already swapped or no liquidity.
+And another one used as a template for custom token function (activeTrading ect...) 
+
+<br>
+<br>
+
+---
+
+## Java
+### REST API for equipments management
+- Build time: 2 months
+- Tested: Unitary and integration test implemented
+- Repo(s): **Private**
+
+A Comprehensive API for Conference Equipment Management, built for a "fake" school client.
+
+The goal was to create a REST API, that can be used in the software equipments management.
+
+Some functionalities: users authentication and authorization, comprehensive interface with the database for different equipments, 
+reservation management.
+
+Technologies used: ``Spring boot``, ``Spring security``, ``JUnit 5``
