@@ -20,6 +20,7 @@
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
 
 <br>
+
 ---
 ## Rust
 ### Rpc massive requests sender
