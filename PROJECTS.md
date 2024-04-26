@@ -12,6 +12,7 @@
 >   - [MEV sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#mev-sniper-bot)
 >   - [Gist generator](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#gist-creator)
 >   - [Spam multi buy implementation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-multi-buy-implementation)
+>   - [Spam ERC20 creation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-erc20-creation)
 > - Solidity
 >   - [Basic stacking rewards](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-stacking-rewards)
 >   - [Basic AVAX wallet](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-avax-wallet)
@@ -129,6 +130,15 @@ Used to share code with collaborators easily
 
 An implementation for [Multi buy contract](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multi-buy-contract), with basic interface to configure the contract
 and start spamming buy transactions.
+
+<br>
+
+
+### Spam ERC20 creation
+- Build time: 4 hours
+- Repo(s): **Public**, https://github.com/0xHumban/spam-erc20-creation
+
+The goal: share your social media links on Telegram groups that detect newly verified tokens, and attract new buyers.
 
 <br>
 

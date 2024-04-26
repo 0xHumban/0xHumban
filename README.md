@@ -15,6 +15,7 @@ random software engineer and searcher
 >   - [MEV sniper bot](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#mev-sniper-bot)
 >   - [Gist generator](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#gist-creator)
 >   - [Spam multi buy implementation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-multi-buy-implementation)
+>   - [Spam ERC20 creation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-erc20-creation)
 > - Solidity
 >   - [Basic stacking rewards](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-stacking-rewards)
 >   - [Basic AVAX wallet](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-avax-wallet)
