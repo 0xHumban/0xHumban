@@ -3,6 +3,7 @@
 > - Rust
 >   - [Rpc massive requests](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rpc-massive-requests-sender)
 >   - [Multichain sniper bot with functionalities](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multichain-sniper-bot-with-functionalities)
+>   - [Terminal interface emergency withdraw](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#terminal-interface-emergency-withdraw)
 > - Python
 >   - [ERC20 snipe with fast transfer](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#erc20-snipe-with-fast-transfer)
 >   - [Arduino read data](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#arduino-read-data)
@@ -13,6 +14,7 @@
 >   - [Gist generator](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#gist-creator)
 >   - [Spam multi buy implementation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-multi-buy-implementation)
 >   - [Spam ERC20 creation](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#spam-erc20-creation)
+>   - [FLT tokens claims](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#flt-tokens-claim)
 > - Solidity
 >   - [Basic stacking rewards](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-stacking-rewards)
 >   - [Basic AVAX wallet](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#basic-avax-wallet)
@@ -56,6 +58,27 @@ to send custom transactions at the right time.
 Technologies used: ``ether-rs``, ``foundry-rs`` (mainly for Anvil)
 
 <br>
+
+### Terminal interface emergency withdraw
+- Build time: 15 hours
+- Repo(s): **Public**, https://github.com/0xHumban/emergency-withdraw
+
+Terminal app created to help you to keep your $ETH if your pass phrase is compromised.
+
+Features:
+
+Enter your seed phrase en select wallets, and transfer ``$ETH`` to another address.
+- View the ``$ETH`` balance for your wallets (generated with your pass phrase)
+- Select one by one or select all wallets you want to send ``$ETH``
+- View the total ``$ETH`` value to send
+- Transfer ``$ETH`` to the address you want
+- Refresh in live the wallets balance
+
+Technologies used: ``ratatui``
+
+<br>
+
+
 <br>
 
 ---
@@ -139,6 +162,20 @@ and start spamming buy transactions.
 - Repo(s): **Public**, https://github.com/0xHumban/spam-erc20-creation
 
 The goal: share your social media links on Telegram groups that detect newly verified tokens, and attract new buyers.
+
+<br>
+
+
+### FLT tokens claim
+- Build time: 2 hours
+- Repo(s): **Public**, https://github.com/0xHumban/flt-tokens-claim
+
+The goal: enter your private key and see if when you can claim your $FLT token, and you can send the transaction to claim. 
+<br>
+
+$FLT are community tokens airdrop by Fluence Network for developers, to claim it you have to claim $FLT-DROP and wait 
+2 months.
+
 
 <br>
 
