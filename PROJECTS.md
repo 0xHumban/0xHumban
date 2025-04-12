@@ -1,5 +1,7 @@
 # Projects:
 > List of projects I have built.
+> - Go
+>   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
 > - Rust
 >   - [Rpc massive requests](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rpc-massive-requests-sender)
 >   - [Multichain sniper bot with functionalities](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multichain-sniper-bot-with-functionalities)
@@ -22,7 +24,19 @@
 > - Java
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
 
+<br
+
+---
+## Go
+### Ants chat (a chat on the same network)
+- Build time: 1 week
+- Repo(s): **Public**, https://github.com/0xHumban/ants-chat
+
+A local network chat where clients can connect to server, send / receive message to others clients. 
+![Ants chat schema](https://github.com/0xHumban/ants-chat/blob/main/assets/ants-chat-schem.png)
+
 <br>
+
 
 ---
 ## Rust
