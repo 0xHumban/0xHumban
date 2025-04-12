@@ -1,6 +1,7 @@
 # Projects:
 > List of projects I have built.
 > - Go
+>   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
 > - Rust
 >   - [Rpc massive requests](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rpc-massive-requests-sender)
@@ -24,11 +25,46 @@
 > - Java
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
 
-<br
+<br>
 
 ---
+
 ## Go
-### Ants chat (a chat on the same network)
+
+### Marmot reduce
+- Build time: 2 week
+- Repo(s): **Public**, https://github.com/0xHumban/marmot-reduce
+
+A simplified distributed system inspired by the MapReduce programming model. It allows you to perform distributed computations across multiple clients connected to a server.
+
+####  Features
+
+##### Server
+
+- **Interactive menu** to manage operations.
+- **Display connected clients** in real time.
+- **Ping clients** to check their availability.
+- **Update Distant client**, sending new version of client
+- **Proper connection management**, preventing resource leaks.
+- **Distributed execution of calculations**:
+  - Letter counting in a text.
+  - Checking if a number is prime.
+  - PI estimation using Monte Carlo algorithm
+  - Free fall simulation
+
+#####  Client
+
+- **Persistent connection**:
+  - If the connection is lost, the client automatically attempts to reconnect.
+  - It continues until the server sends an exit message.
+  - It can self update himself with new version sent by server
+
+
+<br>
+<br>
+
+
+### Ants chat
 - Build time: 1 week
 - Repo(s): **Public**, https://github.com/0xHumban/ants-chat
 

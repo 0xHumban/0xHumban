@@ -4,6 +4,7 @@ random software engineer and searcher
 ## Projects:
 > List of projects I have built.
 > - Go
+>   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
 > - Rust
 >   - [Rpc massive requests](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rpc-massive-requests-sender)
