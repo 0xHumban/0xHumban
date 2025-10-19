@@ -1,8 +1,17 @@
 ## Profile:
-random software engineer and searcher
+software engineer and searcher
+
 
 ## Projects:
-> List of projects I have built.
+> Projects I'm currently working on
+> - IA 
+>   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
+
+---
+> List of projects I have built:
+> - IA 
+>   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
+>   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 > - Go
 >   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
@@ -27,3 +36,7 @@ random software engineer and searcher
 >   - [Multi buy contract](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multi-buy-contract)
 > - Java
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
+>   - [J2EE Application for parking management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#j2ee-application-for-parking-management)
+> - WEB
+>   - [Progressive Web App for basketball association](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#progressive-web-app-for-basketball-association)
+

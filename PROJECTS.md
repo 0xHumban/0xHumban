@@ -1,5 +1,14 @@
 # Projects:
+> Projects I'm currently working on
+> - IA 
+>   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
+
+---
+
 > List of projects I have built.
+> - IA 
+>   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
+>   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 > - Go
 >   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
@@ -24,10 +33,45 @@
 >   - [Multi buy contract](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#multi-buy-contract)
 > - Java
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
+>   - [J2EE Application for parking management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#j2ee-application-for-parking-management)
+> - WEB
+>   - [Progressive Web App for basketball association](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#progressive-web-app-for-basketball-association)
+
 
 <br>
 
 ---
+
+## Artificial Intelligence
+### AI Startup POC 
+- Build time: 6 months (2024-2025)
+- Technologies: ``Python``, ``LlamaIndex``, ``Flask``, ``React``, ``Docker``, ``GIT``
+- Concepts: ``AI``, ``Machine Learning``, ``Retrieval-Augmented Generation``, ``Reinforcement Learning``
+- Repo(s): **Private**
+
+Developed a Proof of Concept (RAG system) integrating a chatbot trained on technical documentation.
+
+Designed and deployed a web application using a Retrieval-Augmented Generation (RAG) architecture.
+
+Deployed to production with Docker, managing and indexing dozens of technical documents.
+
+<br>
+
+### Computer Vision on pebbles
+- Build time: 2025-Present
+- Technologies: ``OpenCV``, ``Python``
+- Concepts: ``Image Segmentation`` ,``Deep Learning``
+- Repo(s): **Private**
+
+Developed tools for automatic detection of pebbles in geological datasets using differents algorithms.
+
+Implemented image segmentation to recognize pebble contours and trained machine learning models to classify lithological types.
+
+<br>
+
+---
+
+
 
 ## Go
 
@@ -282,4 +326,36 @@ The goal was to create a REST API, that can be used in the software equipments m
 Some functionalities: users authentication and authorization, comprehensive interface with the database for different equipments, 
 reservation management.
 
-Technologies used: ``Spring boot``, ``Spring security``, ``JUnit 5``
+Technologies used: ``Spring boot``, ``Spring security``, ``JUnit 5``, ``SQL``
+
+### J2EE Application for parking management
+- Build time: 1 week (2025)
+- Repo(s): **Private**
+- Technologies: ``J2EE``, ``WildFly``, ``Hybernate``, ``SQL``
+- Concepts: ``JPA``, ``EJB``, ``Servlet``, ``Persistence``
+
+Application to simulate parking management.
+
+
+
+
+<br>
+<br>
+
+---
+
+## Web
+### Progressive Web App for basketball association
+- Build time: 2 months
+- Technologies: ``ReactJS``, ``REST API``, ``Firebase``, ``Gitlab``, ``PWA``
+- Repo(s): **Private**
+
+Requirements gathering and analysis: Identified client needs focused on improving communication between coaches and players within sports teams.
+
+Design and development: Built a Progressive Web App (PWA) using React, ensuring responsiveness and cross-platform compatibility.
+
+API integration: Utilized and customized a REST API to manage data exchange between the front end and the server.
+
+Backend services: Integrated Firebase services for chats management and real-time notifications.
+
+Team collaboration: Worked closely with the project manager to maintain smooth communication and efficient project tracking throughout development.
