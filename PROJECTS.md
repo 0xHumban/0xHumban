@@ -2,6 +2,7 @@
 > Projects I'm currently working on
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
+>   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
 
 ---
 
@@ -9,6 +10,7 @@
 > - IA 
 >   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
+>   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
 > - Go
 >   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
@@ -66,6 +68,16 @@ Deployed to production with Docker, managing and indexing dozens of technical do
 Developed tools for automatic detection of pebbles in geological datasets using differents algorithms.
 
 Implemented image segmentation to recognize pebble contours and trained machine learning models to classify lithological types.
+
+<br>
+
+### Perplexity MCP Server 
+- Build time: 2025-Present
+- Technologies: ``FastMCP``, ``Python``
+- Concepts: ``MCP`` ,``Vscode Copilot``
+- Repo(s): **Public**, https://github.com/0xHumban/perplexity-mcp
+
+Developed a MCP server to enhance copilot prompts, using perplexity models to inject fresh informations from internet.
 
 <br>
 

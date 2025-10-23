@@ -6,12 +6,14 @@ software engineer and searcher
 > Projects I'm currently working on
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
+>   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
 
 ---
 > List of projects I have built:
 > - IA 
 >   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
+>   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
 > - Go
 >   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
