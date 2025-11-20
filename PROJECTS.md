@@ -3,6 +3,8 @@
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 >   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
+> - Cloudflare
+>   - [AI Search Engine - Perplexity like](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-search-engine)
 
 ---
 
@@ -11,6 +13,9 @@
 >   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 >   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
+> - Cloudflare
+>   - [Location sharing (Worker / Durable Object)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#location-sharing)
+>   - [AI Search Engine - Perplexity like](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-search-engine)
 > - Go
 >   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
@@ -81,6 +86,37 @@ Developed a MCP server to enhance copilot prompts, using perplexity models to in
 
 <br>
 
+
+---
+
+
+
+## Cloudflare
+
+### Location sharing
+- Build time: 1 week (nov 2025)
+- Repo(s): **Private**
+- Technologies: ``Typescript``, ``Cloudflare worker``, ``SQLite``
+- Concepts: ``Cloudflare platform`` ,``Worker``, ``Durable Object``, ``Websockets``
+
+A simple website designed to share location with others, built as an experiment to explore various Cloudflare technologies.
+
+<br>
+<br>
+
+
+### AI Search Engine 
+- Build time: Nov 2025 - Present
+- Repo(s): **Private**
+- Technologies: ``Typescript``, ``Cloudflare worker``, ``AI Worker``, ``Tavily``
+- Concepts: ``Cloudflare platform`` ,``Worker``, ``AI Worker``
+
+The goal is to recreate the `Perplexity` chat bot pipeline.
+Make relevant research for the user prompt.
+Use the web results as context for the final LLM answer. 
+
+<br>
+<br>
 ---
 
 

@@ -7,6 +7,8 @@ software engineer and searcher
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 >   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
+> - Cloudflare
+>   - [AI Search Engine - Perplexity like](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-search-engine)
 
 ---
 > List of projects I have built:
@@ -14,6 +16,9 @@ software engineer and searcher
 >   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 >   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
+> - Cloudflare
+>   - [Location sharing (Worker / Durable Object)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#location-sharing)
+>   - [AI Search Engine - Perplexity like](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-search-engine)
 > - Go
 >   - [Marmot Reduce (Distributed system for calculations)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#marmot-reduce)
 >   - [Ants chat (a chat on the same network)](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ants-chat)
