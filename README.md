@@ -6,9 +6,10 @@ software engineer and searcher
 > Projects I'm currently working on
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
->   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
 > - Cloudflare
 >   - [AI Search Engine - Perplexity like](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-search-engine)
+> - Web / Mobile
+>   - [WiFi Radar](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#wifi-radar)
 
 ---
 > List of projects I have built:
@@ -44,6 +45,7 @@ software engineer and searcher
 > - Java
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
 >   - [J2EE Application for parking management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#j2ee-application-for-parking-management)
-> - WEB
+> - WEB / Mobile
+>   - [WiFi Radar](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#wifi-radar)
 >   - [Progressive Web App for basketball association](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#progressive-web-app-for-basketball-association)
 

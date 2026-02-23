@@ -5,6 +5,8 @@
 >   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
 > - Cloudflare
 >   - [AI Search Engine - Perplexity like](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-search-engine)
+> - Web / Mobile
+>   - [WiFi Radar](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#wifi-radar)
 
 ---
 
@@ -41,11 +43,10 @@
 > - Java
 >   - [REST API for equipments management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#rest-api-for-equipments-management)
 >   - [J2EE Application for parking management](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#j2ee-application-for-parking-management)
-> - WEB
+> - WEB / Mobile
+>   - [WiFi Radar](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#wifi-radar)
 >   - [Progressive Web App for basketball association](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#progressive-web-app-for-basketball-association)
 
-
-<br>
 
 ---
 
@@ -392,7 +393,19 @@ Application to simulate parking management.
 
 ---
 
-## Web
+## Web / Mobile
+### WiFi Radar
+- Build time: 2026 (1 month)
+- Technologies: ``React 18``, ``TypeScript``, ``Tailwind CSS v4``, ``Capacitor``, ``Recharts``
+- Concepts: ``Android Signal Analyzer``, ``WiFi Scanner``, ``Spectrum Analyzer``, ``WiFi Heatmap``
+- Repo(s): **Public**, https://github.com/0xHumban/wifi-measurements
+
+WiFi Radar is a high-precision hybrid mobile application designed to measure, analyze, and map WiFi signals on Android devices. 
+
+It provides professional-grade insights into network health, radio spectrum occupancy, and spatial coverage through real-time monitoring and advanced visualizations like Inverse Distance Weighting (IDW) interpolation for heatmaps.
+
+<br>
+
 ### Progressive Web App for basketball association
 - Build time: 2 months
 - Technologies: ``ReactJS``, ``REST API``, ``Firebase``, ``Gitlab``, ``PWA``
