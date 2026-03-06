@@ -4,6 +4,8 @@ software engineer and searcher
 
 ## Projects:
 > Projects I'm currently working on
+> - High-Frequency Trading (HFT)
+>   - [Ultra-Low Latency Matching Engine](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ultra-low-latency-matching-engine)
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 > - Cloudflare
@@ -13,6 +15,8 @@ software engineer and searcher
 
 ---
 > List of projects I have built:
+> - High-Frequency Trading (HFT)
+>   - [Ultra-Low Latency Matching Engine](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ultra-low-latency-matching-engine)
 > - IA 
 >   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)

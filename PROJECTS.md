@@ -1,5 +1,7 @@
 # Projects:
 > Projects I'm currently working on
+> - High-Frequency Trading (HFT)
+>   - [Ultra-Low Latency Matching Engine](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ultra-low-latency-matching-engine)
 > - IA 
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
 >   - [Perplexity MCP Server](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#perplexity-mcp-server)
@@ -11,6 +13,8 @@
 ---
 
 > List of projects I have built.
+> - High-Frequency Trading (HFT)
+>   - [Ultra-Low Latency Matching Engine](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ultra-low-latency-matching-engine)
 > - IA 
 >   - [RAG implementation for a startup POC](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#ai-startup-poc)
 >   - [Computer Vision on pebbles](https://github.com/0xHumban/0xHumban/blob/main/PROJECTS.md#computer-vision-on-pebbles)
@@ -49,6 +53,31 @@
 
 
 ---
+
+
+
+## High-Frequency Trading (HFT)
+
+### Ultra-Low Latency Matching Engine
+- Build time: 4 months (2025-2026)
+- Technologies: ``C#``, ``.NET 9``, ``LMAX Disruptor``, ``BenchmarkDotNet``, ``Span<T>``, ``SIMD``
+- Concepts: ``High-Frequency Trading``, ``Lock-free Concurrency``, ``Zero-GC Architecture``, ``Mechanical Sympathy``
+- Repo(s): **Private / In-Progress**
+
+Architecting a high-performance matching engine in C#, engineered to sustain a throughput of 8 million operations per second.
+
+Implemented an LMAX Disruptor pattern and lock-free data structures to eliminate thread contention and maximize CPU cache efficiency.
+
+Designed a Zero GC (Garbage Collection) architecture using advanced memory management (Object Pooling, Span<T>, and explicit memory alignment) to ensure deterministic execution and sub-microsecond latency spikes.
+
+Optimized the execution pipeline for Mechanical Sympathy, reducing context switching and leveraging SIMD instructions for rapid order book state updates.
+
+<br>
+<br>
+
+---
+
+
 
 ## Artificial Intelligence
 ### AI Startup POC 
